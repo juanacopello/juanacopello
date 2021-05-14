@@ -8,7 +8,7 @@ My name is Juana Copello.
 
 :technologist:	I am currently learning to code: I have basic and intermediate knowledge about HTML, CSS and JavaScript, you can see the different projects I have worked on. I am now starting to learn React.js
 
-:paintbrush:	I am also learning about UX/UI Design, hoping to apply my knowledge to News Applications.
+:paintbrush:	I am also learning about UX/UI Design, hoping to apply this knowledge to News Applications and News Deisgn.
 
 <!--
 **juanacopello/juanacopello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
