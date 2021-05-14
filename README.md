@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-My name is Juana Copello. I am a Journalist :female_detective: and I currently work at LA NACION in Buenos Aires, Argentina.
-I am interested in how Media, Design and Technology work together to create the perfect product :woman_technologist:
+My name is Juana Copello. 
+:female_detective: I am a Journalist and I currently work at LA NACION in Buenos Aires, Argentina. 
+:woman_technologist: I’m interested in how Media, Design and Technology come together with journalism to generate a quality product for readers.
 
 I am currently learning to code: I have basic and intermediate knowledge about HTML, CSS and JavaScript, you can see the different projects I have worked on. I am now starting to learn React.js
 
-I am also learning about UX/UI Design, hoping to apply my knowledge to News Applications.
+:paintbrush:	I am also learning about UX/UI Design, hoping to apply my knowledge to News Applications.
 
 <!--
 **juanacopello/juanacopello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
