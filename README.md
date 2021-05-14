@@ -4,7 +4,7 @@ My name is Juana Copello.
 
 :female_detective: I am a Journalist and I currently work at LA NACION in Buenos Aires, Argentina. 
 
-:woman_technologist: I’m interested in how Media, Design and Technology come together with journalism to generate a value-added product or article for readers.
+:woman_technologist: I’m interested in how Media, Design and Technology come together with journalism to create not only new ways of telling stories but also a value-added product for readers.
 
 :technologist:	I am currently learning to code: I have basic and intermediate knowledge about HTML, CSS and JavaScript, you can see the different projects I have worked on. I am now starting to learn React.js
 
