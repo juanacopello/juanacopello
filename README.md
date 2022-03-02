@@ -6,9 +6,9 @@ My name is Juana Copello.
 
 :woman_technologist: I’m interested in how Media, Design and Technology come together with journalism to create not only new ways of telling stories but also a value-added product for readers.
 
-:technologist:	I am currently learning to code: I have basic and intermediate knowledge about HTML, CSS and JavaScript, you can see the different projects I have worked on. I am now starting with p5.js and hope to begin coding with d3.js soon.
+:technologist:	I am currently learning to code: I have basic and intermediate knowledge about HTML, CSS and JavaScript. I am now starting with p5.js and hope to begin coding with d3.js soon.
 
-:paintbrush:	I am also learning about UX/UI Design, hoping to apply this knowledge to News Applications and News Deisgn.
+:paintbrush:	I am also interested in UX/UI Design, hoping to apply this knowledge to News Applications and News Deisgn.
 
 <!--
 **juanacopello/juanacopello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
