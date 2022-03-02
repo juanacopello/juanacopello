@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Juana Copello.
+### Hi there 👋 I am Juana
 
 :female_detective: I am a Journalist and I currently work at LA NACION in Buenos Aires, Argentina. 
 
