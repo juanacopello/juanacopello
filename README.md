@@ -1,4 +1,4 @@
-### Hi there 👋 I am Juana
+### Hi there 👋 I'm Juana
 
 :female_detective: I am a journalist and I currently work at LA NACION in Buenos Aires, Argentina. 
 
