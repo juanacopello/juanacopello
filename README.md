@@ -6,7 +6,7 @@
 
 :woman_technologist: I am currently learning to code: I have intermediate knowledge about HTML, CSS and JavaScript. I am now learning p5.js and hope to begin with d3.js soon.
 
-:paintbrush:	I am also interested in UX/UI Design, hoping to apply these skills to news applications and information design.
+:artist: :paintbrush:	I am also interested in UX/UI Design, hoping to apply these skills to news applications and information design.
 
 <!--
 **juanacopello/juanacopello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
