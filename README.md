@@ -2,9 +2,9 @@
 
 :female_detective: I am a journalist and I currently work at LA NACION in Buenos Aires, Argentina. 
 
-:woman_technologist: I’m interested in how media, design and technology come together with communications and journalism to create not only new ways of telling stories but also a value-added product for readers and audiences.
+:iphone:	I’m interested in how media, design and technology come together with communications and journalism to create not only new ways of telling stories but also a value-added product for readers and audiences.
 
-:technologist:	I am currently learning to code: I have intermediate knowledge about HTML, CSS and JavaScript. I am now learning p5.js and hope to begin with d3.js soon.
+:woman_technologist: I am currently learning to code: I have intermediate knowledge about HTML, CSS and JavaScript. I am now learning p5.js and hope to begin with d3.js soon.
 
 :paintbrush:	I am also interested in UX/UI Design, hoping to apply these skills to news applications and information design.
 
