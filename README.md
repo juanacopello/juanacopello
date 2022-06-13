@@ -1,4 +1,4 @@
-### Hello 👋 I'm Juana
+###  Hi 👋 I'm Juana
 
 :female_detective: I am a journalist and I currently work at the Digital Narratives Team at <a href=https://www.lanacion.com.ar/autor/juana-copello-13450/ target="_blank">LA NACION</a>, a national newspaper in Buenos Aires, Argentina. 
 
