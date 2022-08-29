@@ -1,10 +1,6 @@
 ###  Hi 👋 I'm Juana
 
-:female_detective: I am a journalist and I currently work at the Digital Narratives Team at <a href=https://www.lanacion.com.ar/autor/juana-copello-13450/ target="_blank">LA NACION</a>, a national newspaper in Buenos Aires, Argentina. 
-
-:iphone:	I’m interested in how different types of media, design and technology come together with journalism to create not only new ways of telling stories but also a value-added product for readers and new audiences.
-
-:woman_technologist: I am a hobby developer and I am now learning p5.js and d3.js, hoping to apply my knowledge for creative coding and data visualization in the news media field.
+:female_detective: I am a journalist and I currently work at the Digital Narratives Team at <a href=https://www.lanacion.com.ar/autor/juana-copello-13450/ target="_blank">LA NACION</a> in Buenos Aires, Argentina. 
 
 <!--
 **juanacopello/juanacopello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
